@@ -3,7 +3,8 @@ This is a guideline to setup deepseek-r1 running on the local gpu with interacti
 - The OS: Window 10
 - GPU: Nvidia RTX 3090 </br>
 
-Note: This guideline does not include the installation of CUDNN and CUDA Toolkit
+Check your GPU support Ollama from this [Link](https://github.com/ollama/ollama/blob/main/docs/gpu.md)</br>
+<i>Note: This guideline does not include the installation of CUDNN and CUDA Toolkit</i>
 
 ## Installation
 ### Install Ollama
